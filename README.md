@@ -1,5 +1,5 @@
 # Banking-System
-Develop a banking application that enables users to:
+Developed a banking application that enables users to:
 
 Create accounts 
 
